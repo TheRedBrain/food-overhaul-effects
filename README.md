@@ -1,9 +1,10 @@
-# Fabric Example Mod
+# Food Overhaul - Vanilla Foods
 
-## Setup
+This is a library of food effects. It does nothing on its own.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+The effects are meant to be used with the mod [Food Overhaul](https://modrinth.com/mod/food-overhaul), but can of course be used for other purposes as well.
 
-## License
+These effects affect the player in various ways, like increasing health, stamina or mana.
+More exotic food increases attributes like frost resistance.
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Most of these attributes are provided by the mods [Health Regeneration Overhaul](https://modrinth.com/mod/health-regeneration-overhaul), [Mana Attributes](https://modrinth.com/mod/mana-attributes), [Overhauled Damage](https://modrinth.com/mod/overhauled-damage) and [Stamina Attributes](https://modrinth.com/mod/stamina-attributes).
