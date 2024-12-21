@@ -7,7 +7,7 @@
       "effects": [
         {
           "effect": {
-            "id": "variousstatuseffects:cooked_cod_food_effect",
+            "id": "foodoverhaulvanillafoods:cooked_cod_food_effect",
             "amplifier": 0,
             "duration": 24000,
             "ambient": false,

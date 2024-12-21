@@ -1,10 +1,11 @@
 # Food Overhaul - Vanilla Foods
 
-This is a library of food effects. It does nothing on its own.
+An addon for [Food Overhaul](https://github.com/TheRedBrain/food-overhaul)
 
-The effects are meant to be used with the mod [Food Overhaul](https://modrinth.com/mod/food-overhaul), but can of course be used for other purposes as well.
+Adds a collection of food effects, that are designed to be used with food items added by vanilla items.
 
-These effects affect the player in various ways, like increasing health, stamina or mana.
-More exotic food increases attributes like frost resistance.
+To add the food effects to their respective items, [Item Components](https://modrinth.com/mod/item-components) is required. 
 
-Most of these attributes are provided by the mods [Health Regeneration Overhaul](https://modrinth.com/mod/health-regeneration-overhaul), [Mana Attributes](https://modrinth.com/mod/mana-attributes), [Overhauled Damage](https://modrinth.com/mod/overhauled-damage) and [Stamina Attributes](https://modrinth.com/mod/stamina-attributes).
+Installing [Health Regeneration Overhaul](https://github.com/TheRedBrain/health-regeneration-overhaul), [Mana Attributes](https://github.com/TheRedBrain/mana-attributes), [Overhauled Damage](https://github.com/TheRedBrain/overhauled-damage) and/or [Stamina Attributes](https://github.com/TheRedBrain/stamina-attributes) gives most food effects additional attributes.
+
+Mods like [Food Effect Tooltips](https://github.com/DaFuqs/FoodEffectTooltips) are recommended.

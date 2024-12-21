@@ -7,7 +7,7 @@
       "effects": [
         {
           "effect": {
-            "id": "variousstatuseffects:chicken_food_effect",
+            "id": "foodoverhaulvanillafoods:chicken_food_effect",
             "amplifier": 0,
             "duration": 12000,
             "ambient": false,

@@ -7,7 +7,7 @@
       "effects": [
         {
           "effect": {
-            "id": "variousstatuseffects:brown_mushroom_food_effect",
+            "id": "foodoverhaulvanillafoods:brown_mushroom_food_effect",
             "amplifier": 0,
             "duration": 18000,
             "ambient": false,

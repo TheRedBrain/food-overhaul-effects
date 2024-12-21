@@ -742,7 +742,7 @@ public class StatusEffectsRegistry {
 		FoodOverhaulVanillaFoods.MUSHROOM_STEW_FOOD_EFFECT = register("mushroom_stew_food_effect", MUSHROOM_STEW_FOOD_EFFECT);
 		FoodOverhaulVanillaFoods.MUTTON_FOOD_EFFECT = register("mutton_food_effect", MUTTON_FOOD_EFFECT);
 		FoodOverhaulVanillaFoods.POISONOUS_POTATO_FOOD_EFFECT = register("poisonous_potato_food_effect", POISONOUS_POTATO_FOOD_EFFECT);
-		FoodOverhaulVanillaFoods.PORKCHOP_FOOD_EFFECT = register("porkchop_porkchop_food_effect", PORKCHOP_FOOD_EFFECT);
+		FoodOverhaulVanillaFoods.PORKCHOP_FOOD_EFFECT = register("porkchop_food_effect", PORKCHOP_FOOD_EFFECT);
 		FoodOverhaulVanillaFoods.POTATO_FOOD_EFFECT = register("potato_food_effect", POTATO_FOOD_EFFECT);
 		FoodOverhaulVanillaFoods.PUFFERFISH_FOOD_EFFECT = register("pufferfish_food_effect", PUFFERFISH_FOOD_EFFECT);
 		FoodOverhaulVanillaFoods.PUMPKIN_PIE_FOOD_EFFECT = register("pumpkin_pie_food_effect", PUMPKIN_PIE_FOOD_EFFECT);

@@ -3,7 +3,7 @@
 	"id": "foodoverhaulvanillafoods",
 	"version": "${version}",
 	"name": "Food Overhaul - Effects",
-	"description": "A library of food status effects, intended to be used by other mods.",
+	"description": "Adds 'Food Overhaul' support for vanilla items.",
 	"authors": [
 		"TheRedBrain"
 	],
